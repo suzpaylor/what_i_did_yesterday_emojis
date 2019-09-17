@@ -1,0 +1,18 @@
+
+Mon Sep 16 21:02:46 MDT 2019
+reviewed report for Jessica G.  Followed up with Jessica G.  She was able to talk through results with Justina & he had solutions for her in procomp
+changed validation script to use prod rules
+created sheets for Jessica S.
+Surgical volumes report for Leadership team
+created the did.txt file for command line summaries of what I did
+connected it to github repo
+got emojis working in VIM
+burnt dinner
+😬
+
+
+
+
+
+
+Mon Sep 16 21:14:57 MDT 2019
