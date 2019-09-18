@@ -1,5 +1,6 @@
-
 Mon Sep 16 21:02:46 MDT 2019
+Finished standup file
+Tue Sep 17 11:05:48 MDT 2019
 reviewed report for empiricists.   She  to talk through results with CTO. issue resolved.
 changed validation script to use prod rules
 created sheets for Jessica S.
@@ -10,3 +11,11 @@ got emojis working in VIM
 burnt dinner
 😬
 
+Tue Sep 17 11:15:18 MDT 2019
+combed through the sql_queries repo looked for PHI
+worked on ETL documentation
+ways to improve process as we end loads
+
+Tue Sep 17 23:59:53 MDT 2019
+begin work on react native - session 1
+TODO: review hooks, redux, state in React
