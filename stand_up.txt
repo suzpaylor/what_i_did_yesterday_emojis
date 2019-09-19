@@ -15,7 +15,14 @@ Tue Sep 17 11:15:18 MDT 2019
 combed through the sql_queries repo looked for PHI
 worked on ETL documentation
 ways to improve process as we end loads
-
-Tue Sep 17 23:59:53 MDT 2019
+meeting/discussion at the end of a data cycle
+what can we improve?  wins? frustrations?
+-----------side projects----------------
 begin work on react native - session 1
 TODO: review hooks, redux, state in React
+
+Wed Sep 18 22:51:06 MDT 2019
+IHC data ingest, STORM prep
+Troubleshoot remote interpreter
+Run IHC storm
+😔
