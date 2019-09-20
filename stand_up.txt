@@ -26,3 +26,13 @@ IHC data ingest, STORM prep
 Troubleshoot remote interpreter
 Run IHC storm
 😔
+
+Thu Sep 19 14:26:05 MDT 2019
+post storm validation
+prepare for stage data load
+validation worksheets - jmh
+for Tom
+study state in React
+🙂
+
+
