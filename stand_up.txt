@@ -40,3 +40,19 @@ Prod version of validation sheets for TOM
 More checks - no PHI 
 😐
 
+
+Wed Sep 25 15:36:01 MDT 2019
+new record for validation worksheets
+91; 46 new 45 updates
+seriously need to work on side projects
+🙃
+Didn't want to hold up empiricists work, so got sheets out
+Still issues stage/prod new data ingest ihc
+
+Thu Sep 26 22:52:40 MDT 2019
+broken stuff
+stage vs. prod
+new process to simplify analysis - counts and loads first
+tags second
+recloned data_ops_scripts
+meet with T add clarity to forms
