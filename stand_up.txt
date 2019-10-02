@@ -56,3 +56,42 @@ new process to simplify analysis - counts and loads first
 tags second
 recloned data_ops_scripts
 meet with T add clarity to forms
+
+Fri Sep 27 09:03:37 MDT 2019
+meeting with Jessica S.  more info for SSM null item id report
+why stars?
+why so few items creating sooo many nulls
+focus on items that will lead to cost savings
+bring in cost
+compare again to raw
+***
+IHC data load
+SSM validation worksheets Tom/Tonya
+changing process - verify CERT/PROD rules
+Sean write a query to run, or script... 
+They want us to check if PROD/CERT rules match first
+
+
+
+Fri Sep 27 09:42:32 MDT 2019
+
+Mon Sep 30 13:18:09 MDT 2019
+Troubleshooting - change move tables instruction
+Reach out to Wendy about Validation worksheets
+Do I need to compare rules in stage vs prod?  Or is that on their end
+Work on reports for Jessica S.
+Validation worksheets for IHC/Wendy
+Validation worksheets for Tom/SSM
+
+Tue Oct  1 10:49:50 MDT 2019
+report for Jessica S.
+review current ETL process - as we finish SSM/JMH
+Follow up with Christine - check with Chris on JMH files
+Waiting to hear from Chris about analysis - Chris will use this
+Validation worksheets for Tom
+--look over the ETL docs, how can we improve process
+--update with KENTON
+--reach out to Alycia??? maybe not?
+--add more to Jessica's report                                                   
+
+Tue Oct  1 23:06:21 MDT 2019
