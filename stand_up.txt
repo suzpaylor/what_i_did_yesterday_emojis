@@ -92,6 +92,30 @@ Validation worksheets for Tom
 --look over the ETL docs, how can we improve process
 --update with KENTON
 --reach out to Alycia??? maybe not?
---add more to Jessica's report                                                   
+--add more to Jessica's report                                             i
 
-Tue Oct  1 23:06:21 MDT 2019
+Wed Oct  2 11:01:42 MDT 2019
+looked into lap procedure code
+SSM validation worksheets
+updated storm documentation
+changes for Jessica S. report on nulls
+
+Thu Oct  3 11:03:14 MDT 2019
+Several updates for the website
+Heard back from JMH
+Working on recording monthly loads
+getting our repos up to date
+Start changes for marketing on site
+changed titles - research on widget
+
+
+Fri Oct  4 11:01:58 MDT 2019
+Met with Nancy about the adhoc IHC request
+More details for that query
+Created first draft with sample data from two months
+UPdated Alycia about website
+Issue with widgett
+Met with Wendy about rewriting the validation script
+
+
+
